@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1493408876 source:c:\users\leeoe\desktop\tp2_laboratorio_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493405570 source:c:\users\leeoe\desktop\tp2_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493408531 c:\users\leeoe\desktop\tp2_laboratorio_1\funciones.h
+
+1493408960 source:c:\users\leeoe\desktop\lyghdbj,cb\tp2_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493408531 c:\users\leeoe\desktop\lyghdbj,cb\tp2_laboratorio_1\funciones.h
+
+1493411853 source:c:\users\leeoe\desktop\lyghdbj,cb\tp2_laboratorio_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+

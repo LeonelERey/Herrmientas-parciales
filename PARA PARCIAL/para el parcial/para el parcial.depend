@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1493841803 source:c:\users\leeoe\desktop\para el parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"para el parcial.h"
+
+1493841393 c:\users\leeoe\desktop\para el parcial\para el parcial.h
+
+1493842813 source:c:\users\leeoe\desktop\para el parcial\para el parcial.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"para el parcial.h"
+
