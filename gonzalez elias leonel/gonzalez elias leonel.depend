@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1493908985 source:c:\users\alumno\desktop\gonzalez elias leonel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funciones.h"
+
+1493909175 c:\users\alumno\desktop\gonzalez elias leonel\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1493909501 source:c:\users\alumno\desktop\gonzalez elias leonel\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funciones.h"
+
+1494451547 source:c:\users\leeoe\desktop\gonzalez elias leonel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesP.h"
+
+1494279118 c:\users\leeoe\desktop\gonzalez elias leonel\funciones.h
+
+1494479344 source:c:\users\leeoe\desktop\gonzalez elias leonel\funcionesp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesP.h"
+
+1494450618 c:\users\leeoe\desktop\gonzalez elias leonel\funcionesp.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
